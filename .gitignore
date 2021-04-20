@@ -1,6 +1,7 @@
 .vscode/
 build/
 node_modules/
+.idea/
 public/env.js
 scripts/generate-local-secrets-env.sh
 scripts/generate-local-secrets-env-rm.ps1
